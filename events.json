@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Islamabad Tech Meetup",
+    "date": "2025-06-08",
+    "time": "03:00 PM",
+    "location": "National Incubation Center, Islamabad",
+    "description": "A networking event for developers, designers, and entrepreneurs in Islamabad."
+  },
+  {
+    "name": "Qawwali Night",
+    "date": "2025-06-10",
+    "time": "08:00 PM",
+    "location": "PNCA Auditorium, Islamabad",
+    "description": "Experience a soulful evening of traditional Qawwali music."
+  },
+  {
+    "name": "Capital Book Fair",
+    "date": "2025-06-15",
+    "time": "10:00 AM",
+    "location": "Pak-China Friendship Centre",
+    "description": "A large-scale book fair featuring local and international publishers."
+  },
+  {
+    "name": "Youth Climate Summit",
+    "date": "2025-06-18",
+    "time": "11:00 AM",
+    "location": "Islamabad Marriott Hotel",
+    "description": "Join youth leaders and activists discussing sustainable development and climate action."
+  },
+  {
+    "name": "Startup Showcase Islamabad",
+    "date": "2025-06-22",
+    "time": "01:00 PM",
+    "location": "Ignite HQ, G-8 Markaz, Islamabad",
+    "description": "Pitching event featuring new startups and investment opportunities."
+  }
+]
